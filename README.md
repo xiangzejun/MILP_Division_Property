@@ -1,5 +1,5 @@
 ### Algorithm
-This project contains the supporting material of the paper entitled "Applying MILP Method to Search Integral Distinguishers Based on Division Property for 6 Lightweight Block Ciphers", which has been accepted by Asiacrypt 2016.
+This project contains the supporting material of the paper entitled "Applying MILP Method to Searching Integral Distinguishers Based on Division Property for 6 Lightweight Block Ciphers", which has been accepted by Asiacrypt 2016.
 
 The project implements the three algorithms presented in the paper.
 
