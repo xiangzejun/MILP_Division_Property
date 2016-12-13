@@ -250,7 +250,7 @@ class Twine:
 							break
 			# Gurobi syntax: m.Status == 3 represents the model is infeasible.
 			elif m.Status == 3:
-				global_flag == True
+				global_flag = True
 				break
 			else:
 				print "Unknown error!"
